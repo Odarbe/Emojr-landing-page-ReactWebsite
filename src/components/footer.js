@@ -24,8 +24,9 @@ const Footer = () => {
                                 <i className="fa fa-linkedin text-light bg-primary p-2 rounded text-center" id="iconLogo"></i>
                             </a>
                         </div>
-                        <div className="p-1 bd-highlight "><a href="mailto:odarbejr19@mail.com" target="_blank">
-                            <i className="fa fa-google-plus  text-danger bg-white  p-2 rounded text-center" id="iconLogo"></i>
+                        <div className="p-1 bd-highlight ">
+                            <a href="mailto:odarbejr19@mail.com" target="_blank">
+                                <i className="fa fa-google-plus  text-danger bg-white  p-2 rounded text-center" id="iconLogo"></i>
                             </a>
                         </div>
                     </div>
