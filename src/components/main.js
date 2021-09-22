@@ -22,7 +22,7 @@ const SiteInfo = () => {
                         <div className="card p-3 mb-0 pb-0 border border-0 bg-white">
                             <div className="view mt-5">
                                 <a onClick={() => successAlert(project.siteLink)}>
-                                    <img src={project.image} />
+                                    <img src={window.location.origin + project.image} />
                                 </a>
                                 <div className="card-body text-lef">
                                     <h5 className="card-title white-text">{project.title}</h5>
