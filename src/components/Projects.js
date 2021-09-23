@@ -24,7 +24,7 @@ const PROJECTS = [
         siteLink: ''
     },{
         title: 'WEBSITE J-FASHION',
-        discription: "For me style is expressing yourself through what you wear. Licensed from iStockPhoto. noun. Style is defined as a particular of doing or saying something, or refers to a unique form of clothing or way of arranging your appearance.",
+        discription: "For me style is expressing yourself through what you wear. Style is defined as a particular of doing or saying something, or refers to a unique form of clothing or way of arranging your appearance.",
         image: 'https://emojr1.netlify.app/img/dtm-view.png',
         siteLink: 'https://jfashion.netlify.app/'
     },
