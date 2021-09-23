@@ -41,6 +41,17 @@ span{
 .card-body{
     height: 15vh;
 }
+@media screen and (max-width: 992px) {
+  .card-body {
+    padding-bottom: 195px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .card-body {
+    padding-bottom: 195px;
+  }
+}
+
 .card-title{
     font-size: 1.2rem;
     color: $titleColor;
